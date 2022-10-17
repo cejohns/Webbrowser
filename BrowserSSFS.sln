@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserSSFS", "BrowserSSFS\BrowserSSFS.csproj", "{29342889-C7B1-428D-BC6C-83B7193E0CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29342889-C7B1-428D-BC6C-83B7193E0CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29342889-C7B1-428D-BC6C-83B7193E0CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29342889-C7B1-428D-BC6C-83B7193E0CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29342889-C7B1-428D-BC6C-83B7193E0CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7F9F0E-1E2D-44F0-9CE9-7D8B90A38FA7}
+	EndGlobalSection
+EndGlobal
